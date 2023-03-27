@@ -1,0 +1,6 @@
+{
+	"name": "tag-query",
+	"tree": {
+		"$path": "src"
+	}
+}
